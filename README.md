@@ -1,4 +1,3 @@
-
 # Hi, I'm Ajayi Oluwafemi Olaiya 👋
 
 ## Network Administrator | NOC Engineer | Infrastructure & Automation Enthusiast
@@ -51,6 +50,13 @@ Supported daily telecommunications network operations within a **Network Operati
 - Alarm analysis and fault isolation support
 - Monitoring optical transport nodes across transmission layers
 
+## Cisco Networking Tools
+
+- Cisco IOS Fundamentals
+- Cisco Networking Concepts
+- Cisco Packet Tracer for network simulation and topology design
+- Routing and switching practice environments
+
 ---
 
 # 🛠️ Technical Skills
@@ -64,11 +70,13 @@ Supported daily telecommunications network operations within a **Network Operati
 - TCP/IP Networking
 - IPv4 / IPv6 Fundamentals
 - LAN/WAN Technologies
+- Cisco Networking Fundamentals
+- Cisco Routing & Switching Concepts
+- VLANs & Trunking
 - Network Monitoring & Troubleshooting
 - Fault Management
 - Incident Management
 - Network Documentation
-- VLANs & Switching Concepts
 - Routing Fundamentals
 - OSPF
 - BGP Fundamentals
@@ -123,7 +131,7 @@ Supported daily telecommunications network operations within a **Network Operati
 
 ## 🌐 Network Engineering Labs
 
-Hands-on practice with networking concepts, infrastructure design, troubleshooting, and documentation.
+Hands-on practice with networking concepts, infrastructure design, routing, switching, troubleshooting, and documentation using tools such as **Cisco Packet Tracer**.
 
 ## ⚙️ Automation & Scripting
 
@@ -146,7 +154,6 @@ Building responsive web solutions and technical documentation platforms.
 # 📚 Currently Exploring
 
 - Network Automation
-- Python for Network Engineers
 - Go (Golang) for Infrastructure Development
 - IoT Solutions and Connected Systems
 - Cloud Infrastructure
@@ -159,7 +166,6 @@ Building responsive web solutions and technical documentation platforms.
 
 - GitHub: https://github.com/olaiyadigitech
 - LinkedIn: https://www.linkedin.com/in/oluwafemi-ajayi-9843bb24b
-
 - Portfolio: Coming soon
 
 ---
