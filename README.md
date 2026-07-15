@@ -1,61 +1,20 @@
 # Hi, I'm Ajayi Oluwafemi Olaiya 👋
 
-## Network Administrator | NOC Engineer | Infrastructure & Automation Enthusiast
+## Network Engineer | NOC Engineer | Infrastructure & Automation Enthusiast | Go Backend Developer (Learning)
 
 I am a Network Administrator with professional experience in **telecommunications operations, network monitoring, service assurance, and infrastructure support**.
 
-I have professional experience as a **NOC Front Office Engineer at Huawei**, where I supported large-scale fibre transmission networks, monitored network performance, managed operational incidents, and contributed to maintaining service availability across **Core, Metro, and Aggregation network layers**.
-
-My interests span **network engineering, automation, systems administration, IoT, and software development**, with a focus on building reliable and efficient technology solutions.
+I'm passionate about **network engineering, backend development, automation, systems administration, IoT, and cloud technologies**, with a focus on building reliable, scalable, and efficient technology solutions.
 
 ---
 
-# 👨‍💻 Professional Experience
+# 🚀 Featured Projects
 
-## Huawei Technologies — NOC Front Office Engineer
-
-**Professional Experience: 1 Year**
-
-Supported daily telecommunications network operations within a **Network Operations Center (NOC)** environment, focusing on network visibility, incident management, fault monitoring, and service assurance.
-
-### Key Responsibilities
-
-- Monitored **fibre optic transmission networks** across Core, Metro, and Aggregation layers
-- Performed real-time surveillance of network performance, alarms, and service-impacting events
-- Supported fault identification, analysis, escalation, and resolution coordination
-- Maintained operational records, incident reports, and service assurance documentation
-- Collaborated with technical teams to improve network availability and service reliability
-
----
-
-# 🛰️ Tools & Technical Platforms
-
-## Network Management System (NMS)
-
-- Network monitoring and alarm surveillance
-- Fault detection and analysis
-- Incident logging and ticket management
-- Escalation tracking and service assurance activities
-
-## Operation and Workflow System (OWS)
-
-- Operational workflow management
-- Ticket creation, tracking, and resolution follow-up
-- Incident coordination and documentation
-
-## Optical Service Node (OSN)
-
-- Fibre transmission network monitoring
-- Optical network health observation
-- Alarm analysis and fault isolation support
-- Monitoring optical transport nodes across transmission layers
-
-## Cisco Networking Tools
-
-- Cisco IOS Fundamentals
-- Cisco Networking Concepts
-- Cisco Packet Tracer for network simulation and topology design
-- Routing and switching practice environments
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🧮 [Calculator](https://github.com/olaiyadigitech/calculator) | A simple calculator built with Go. | ✅ |
+| 🔤 [Print Alphabet](https://github.com/olaiyadigitech/print-alphabet) | Prints the English alphabet from A to Z using Go. | ✅ |
+| 🌐 REST API | CRUD API built with Go. | 🚧 Coming Soon |
 
 ---
 
@@ -63,115 +22,125 @@ Supported daily telecommunications network operations within a **Network Operati
 
 ## 🌐 Networking & Infrastructure
 
-- Network Operations Center (NOC) Operations
+- Network Operations Center (NOC)
 - Fibre Optic Transmission Networks
 - Optical Transport Systems
 - Core, Metro & Aggregation Networks
-- TCP/IP Networking
-- IPv4 / IPv6 Fundamentals
-- LAN/WAN Technologies
-- Cisco Networking Fundamentals
-- Cisco Routing & Switching Concepts
-- VLANs & Trunking
-- Network Monitoring & Troubleshooting
-- Fault Management
-- Incident Management
-- Network Documentation
-- Routing Fundamentals
-- OSPF
-- BGP Fundamentals
-- MPLS (Multiprotocol Label Switching) Basics
+- TCP/IP
+- IPv4 / IPv6
+- LAN/WAN
+- Cisco Networking
+- Routing & Switching
+- VLANs
+- MPLS Basics
 - VPN Technologies
-- DHCP
-- DNS
-- NAT
-- SNMP
-- NTP
-- SSH
+- Network Monitoring & Troubleshooting
+- Fault & Incident Management
+- Network Documentation
 
----
+## 🖥️ Systems Administration
 
-# 🌍 IoT & Connected Technologies
-
-- Internet of Things (IoT) Fundamentals
-- IoT Networking Concepts
-- Connected Device Communication
-- IP-Based Surveillance Systems (CCTV)
-- Networked Cameras and Monitoring Solutions
-- Sensor-Based Systems
-- Edge Computing Fundamentals
-- IoT Security Awareness
-- Smart Infrastructure Concepts
-- Automation and Data-Driven Solutions
-
----
-
-# 🖥️ Systems & Administration
-
-- Windows Administration
 - Linux Fundamentals
+- Windows Administration
 - PowerShell
-- Command Line Tools
+- Command Line
 - Infrastructure Support
-- System Troubleshooting
 
----
+## ⚙️ Development & Automation
 
-# ⚙️ Development & Automation
-
+- Go (Golang)
+- Git & GitHub
 - HTML5
 - CSS3
-- Go (Golang) Fundamentals
-- Scripting & Workflow Automation
-- Git & GitHub
+- Workflow Automation
+
+## 🌍 IoT & Emerging Technologies
+
+- Internet of Things (IoT)
+- Connected Systems
+- Edge Computing
+- Smart Infrastructure
+- Automation Solutions
+
+---
+
+# 👨‍💻 Professional Experience
+
+## Huawei Technologies
+
+**NOC Front Office Engineer** • **1 Year**
+
+Worked as a **NOC Front Office Engineer**, supporting large-scale fibre transmission networks and contributing to the reliability and availability of telecommunications services across **Core, Metro, and Aggregation network layers**.
+
+### Key Responsibilities
+
+- Monitored fibre transmission networks across Core, Metro, and Aggregation layers.
+- Performed real-time network surveillance and alarm monitoring.
+- Supported fault identification, analysis, escalation, and resolution.
+- Managed operational incidents while maintaining accurate documentation and service records.
+- Collaborated with engineering teams to improve network availability, reliability, and service performance.
+- Utilized Huawei NMS, OWS, and OSN platforms for network monitoring and operational support.
+
+---
+
+# 🛰️ Tools & Technical Platforms
+
+- Huawei Network Management System (NMS)
+- Operation Workflow System (OWS)
+- Optical Service Node (OSN)
+- Cisco IOS
+- Cisco Packet Tracer
 
 ---
 
 # 🚀 Projects & Technical Labs
 
-## 🌐 Network Engineering Labs
+### 🌐 Network Engineering Labs
 
-Hands-on practice with networking concepts, infrastructure design, routing, switching, troubleshooting, and documentation using tools such as **Cisco Packet Tracer**.
+Hands-on networking practice using Cisco Packet Tracer, covering routing, switching, troubleshooting, and network design.
 
-## ⚙️ Automation & Scripting
+### ⚙️ Automation & Scripting
 
-Developing scripts and tools to improve operational efficiency and automate repetitive tasks.
+Developing scripts and automation tools to improve operational efficiency.
 
-## 🐹 Go (Golang) Infrastructure Tools
+### 🐹 Go (Golang)
 
-Exploring Go for building efficient utilities and automation solutions for networking and systems environments.
+Building backend applications and infrastructure utilities while learning Go.
 
-## 🌍 IoT Projects
+### 🌍 IoT
 
-Exploring connected systems, device communication, automation workflows, and IoT-based solutions.
+Exploring connected systems, smart infrastructure, and device communication.
 
-## 💻 Web Development
+### 💻 Web Development
 
-Building responsive web solutions and technical documentation platforms.
+Building responsive websites and technical documentation.
 
 ---
 
-# 📚 Currently Exploring
+# 📚 Currently Learning
 
+- REST API Development with Go
+- PostgreSQL
+- Docker
 - Network Automation
-- Go (Golang) for Infrastructure Development
-- IoT Solutions and Connected Systems
 - Cloud Infrastructure
 - Cybersecurity Fundamentals
 - DevOps Practices
 
 ---
 
-# 📫 Connect With Me
+# ⚡ Professional Focus
 
-- GitHub: https://github.com/olaiyadigitech
-- LinkedIn: https://www.linkedin.com/in/oluwafemi-ajayi-9843bb24b
-- Portfolio: Coming soon
+Building expertise at the intersection of **network engineering, backend development, automation, IoT, and cloud infrastructure** while creating reliable, scalable, and efficient technology solutions.
 
 ---
 
-# ⚡ Professional Focus
+# 📫 Connect With Me
 
-Building expertise at the intersection of **network engineering, automation, IoT, and modern infrastructure technologies** while continuously developing solutions that improve reliability, efficiency, and scalability.
+- **GitHub:** https://github.com/olaiyadigitech
+- **LinkedIn:** https://www.linkedin.com/in/oluwafemi-ajayi-9843bb24b
+- **Portfolio:** Coming Soon
+
+---
 
 ⭐ Thanks for visiting my profile.
