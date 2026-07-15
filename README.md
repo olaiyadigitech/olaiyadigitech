@@ -1,20 +1,26 @@
 # Hi, I'm Ajayi Oluwafemi Olaiya 👋
 
-## Network Engineer | NOC Engineer | Infrastructure & Automation Enthusiast | Go Backend Developer (Learning)
+## Network Engineer | Infrastructure & Automation Enthusiast | Go Backend Developer (Learning)
 
-I am a Network Administrator with professional experience in **telecommunications operations, network monitoring, service assurance, and infrastructure support**.
+I am a Network Engineer with professional experience in **telecommunications operations, network monitoring, service assurance, and infrastructure support**.
 
 I'm passionate about **network engineering, backend development, automation, systems administration, IoT, and cloud technologies**, with a focus on building reliable, scalable, and efficient technology solutions.
 
 ---
 
 # 🚀 Featured Projects
-
+ 
 | Project | Description | Status |
 |---------|-------------|--------|
 | 🧮 [Calculator](https://github.com/olaiyadigitech/calculator) | A simple calculator built with Go. | ✅ |
 | 🔤 [Print Alphabet](https://github.com/olaiyadigitech/print-alphabet) | Prints the English alphabet from A to Z using Go. | ✅ |
-| 🌐 REST API | CRUD API built with Go. | 🚧 Coming Soon |
+| 🌐 REST API | CRUD API built with Go. | 🚧 In Progress |
+
+---
+
+## 🎯 Career Objective
+
+Currently transitioning into backend software engineering by building production-ready applications with Go while leveraging my professional experience in networking, infrastructure, and automation.
 
 ---
 
@@ -70,7 +76,7 @@ I'm passionate about **network engineering, backend development, automation, sys
 
 **NOC Front Office Engineer** • **1 Year**
 
-Worked as a **NOC Front Office Engineer**, supporting large-scale fibre transmission networks and contributing to the reliability and availability of telecommunications services across **Core, Metro, and Aggregation network layers**.
+Supported the operation, monitoring, and service assurance of large-scale fibre transmission networks across Core, Metro, and Aggregation layers, contributing to high network availability and operational reliability within a Network Operations Center (NOC).
 
 ### Key Responsibilities
 
@@ -83,7 +89,7 @@ Worked as a **NOC Front Office Engineer**, supporting large-scale fibre transmis
 
 ---
 
-# 🛰️ Tools & Technical Platforms
+# 🛰️ Tools & Technologies
 
 - Huawei Network Management System (NMS)
 - Operation Workflow System (OWS)
@@ -93,7 +99,7 @@ Worked as a **NOC Front Office Engineer**, supporting large-scale fibre transmis
 
 ---
 
-# 🚀 Projects & Technical Labs
+# 🚀 Areas of Interest
 
 ### 🌐 Network Engineering Labs
 
@@ -137,9 +143,9 @@ Building expertise at the intersection of **network engineering, backend develop
 
 # 📫 Connect With Me
 
-- **GitHub:** https://github.com/olaiyadigitech
-- **LinkedIn:** https://www.linkedin.com/in/oluwafemi-ajayi-9843bb24b
-- **Portfolio:** Coming Soon
+- 🌐 **GitHub:** https://github.com/olaiyadigitech
+- 💼 **LinkedIn:** https://www.linkedin.com/in/oluwafemi-ajayi-9843bb24b
+- 🌍 **Portfolio:** (Coming Soon)
 
 ---
 
