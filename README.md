@@ -96,6 +96,12 @@ Supported the operation, monitoring, and service assurance of large-scale fibre 
 - Optical Service Node (OSN)
 - Cisco IOS
 - Cisco Packet Tracer
+- Git & Github
+- Docker
+- Visual Studio Code
+- Linux
+- AWS
+- Terraform
 
 ---
 
